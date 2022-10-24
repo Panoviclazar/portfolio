@@ -393,8 +393,8 @@ export default function Home() {
             </div>
             <div className=" hidden lg:block w-1 h-[500px] border-r border-cyan-400 dark:border-white"></div>
             <form
-              action="../contactform.php"
-              method="post"
+              action=""
+              method=""
               className=" mt-14 grid gap-10 lg:w-80 lg:mt-0 pb-20"
             >
               <input
